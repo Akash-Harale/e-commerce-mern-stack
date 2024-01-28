@@ -9,6 +9,16 @@
       "category": "top-wear",
       "gender": "female"
     },
+    
+    {
+      "id": "a1b2",
+      "name": "Hoodie",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Under Armour",
+      "price": 1500,
+      "category": "top-wear",
+      "gender": "female"
+    },
     {
       "id": "c4d5",
       "name": "Chino Pants",

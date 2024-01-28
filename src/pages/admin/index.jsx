@@ -1,4 +1,4 @@
-import {  Button } from '@mui/material'
+import {  Button, TextField } from '@mui/material'
 import React, { useEffect, useState } from 'react'
 import styled from 'styled-components';
 import { addProduct, getProducts } from '../../redux/productReducer/action';
@@ -32,10 +32,10 @@ const Admin = () => {
         <DIV>
             <h1>Add Product</h1>
             <form onSubmit={handleSubmit}>
-                <input type="text" name='name' value={product.name} onChange={(e)=>handleChange(e)} placeholder='Product Name' />
-                <input type="text" name='image' value={product.image} onChange={(e)=>handleChange(e)} placeholder=' Product Image' />
-                <input type="text" name='brand' value={product.brand} onChange={(e)=>handleChange(e)} placeholder=' Product Brnad' />
-                <input type="text" name='price' value={product.price} onChange={(e)=>handleChange(e)} placeholder='Price' />
+                <TextField size='small' label="Product Name" type="text" name='name' value={product.name} onChange={(e)=>handleChange(e)} />
+                <TextField size='small' label='Image link' type="text" name='image' value={product.image} onChange={(e)=>handleChange(e)}  />
+                <TextField size='small' label='Product Brand' type="text" name='brand' value={product.brand} onChange={(e)=>handleChange(e)}  />
+                <TextField size='small' label='Product Price' type="text" name='price' value={product.price} onChange={(e)=>handleChange(e)}  />
                 <select onChange={(e) => handleChange(e)} name="category" value={product.category} className='category'>
                     <option >Select Category</option>
                     <option value="top-wear">Top wear</option>
@@ -64,9 +64,12 @@ const DIV = styled.div`
     form{
         display: flex;
         flex-direction: column;
-        gap: 5px;
+        gap: 15px;
     }
- .category, input, .gender{
+    h1{
+        color: #06e0e0;
+    }
+ .category, TextField, .gender{
        height: 40px;
  }
 `
