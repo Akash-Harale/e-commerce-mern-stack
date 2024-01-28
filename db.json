@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": "a1b2",
+      "name": "Hoodie",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Under Armour",
+      "price": 1500,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "c4d5",
+      "name": "Chino Pants",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Levi's",
+      "price": 1800,
+      "category": "bottom-wear",
+      "gender": "female"
+    },
+    {
+      "id": "e6f7",
+      "name": "Running Shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Reebok",
+      "price": 3200,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "g8h9",
+      "name": "Polo Shirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Tommy Hilfiger",
+      "price": 1200,
+      "category": "top-wear",
+      "gender": "male"
+    },
+    {
+      "id": "i0j1",
+      "name": "Cargo Shorts",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Columbia",
+      "price": 1600,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "k2l3",
+      "name": "Basketball Shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Adidas",
+      "price": 5000,
+      "category": "shoes",
+      "gender": "male"
+    },
+    {
+      "id": "m4n5",
+      "name": "Sweater",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Calvin Klein",
+      "price": 2000,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "o6p7",
+      "name": "Jogger Pants",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Fila",
+      "price": 1500,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "q8r9",
+      "name": "Football Cleats",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Puma",
+      "price": 4500,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "s0t1",
+      "name": "Denim Jacket",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "GAP",
+      "price": 2200,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "u2v3",
+      "name": "Khaki Shorts",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Dockers",
+      "price": 1300,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "w4x5",
+      "name": "Walking Shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "New Balance",
+      "price": 2800,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "y6z7",
+      "name": "V-neck T-shirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "H&M",
+      "price": 800,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "a8b9",
+      "name": "Corduroy Pants",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Ralph Lauren",
+      "price": 1900,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "c0d1",
+      "name": "Trail Running Shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Salomon",
+      "price": 3500,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "e2f3",
+      "name": "Sweatshirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Abercrombie & Fitch",
+      "price": 1700,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "g4h5",
+      "name": "Track Pants",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Champion",
+      "price": 1400,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "i6j7",
+      "name": "Cross Training Shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "ASICS",
+      "price": 4000,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "k8l9",
+      "name": "Pullover Sweater",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Gap",
+      "price": 2300,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "m0n1",
+      "name": "Camo Cargo Pants",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Under Armour",
+      "price": 1600,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "o2p3",
+      "name": "High Top Sneakers",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Converse",
+      "price": 2800,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "q4r5",
+      "name": "Long Sleeve Polo",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Lacoste",
+      "price": 1600,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "s6t7",
+      "name": "Slim Fit Jeans",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Diesel",
+      "price": 2200,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "u8v9",
+      "name": "Skate Shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Vans",
+      "price": 3000,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "w0x1",
+      "name": "Striped T-shirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Zara",
+      "price": 950,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "y2z3",
+      "name": "Cargo Joggers",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Nike",
+      "price": 1800,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "a4b5",
+      "name": "Running Sneakers",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Brooks",
+      "price": 3200,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "c6d7",
+      "name": "Button-down Shirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Banana Republic",
+      "price": 1200,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "e8f9",
+      "name": "Cuffed Jogger Pants",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Hollister",
+      "price": 1400,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "g0h1",
+      "name": "Basketball Shorts",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Jordan",
+      "price": 1200,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "i2o4",
+      "name": "Zip-up Hoodie",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Adidas Originals",
+      "price": 1800,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "u6y8",
+      "name": "Slim Fit Chinos",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Dockers",
+      "price": 2200,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "z1x3",
+      "name": "Trail Hiking Shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Merrell",
+      "price": 2800,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "q2w4",
+      "name": "Vest",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "North Face",
+      "price": 1200,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "c8v9",
+      "name": "Cargo Jogger Shorts",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Fila",
+      "price": 1000,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "e3r5",
+      "name": "Running Sandals",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Teva",
+      "price": 800,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "b7n2",
+      "name": "Pullover Sweatshirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Hollister",
+      "price": 1500,
+      "category": "top-wear",
+      "gender": "female"
+    },
+    {
+      "id": "m1o8",
+      "name": "Cargo Capri Pants",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Columbia",
+      "price": 1700,
+      "category": "bottom-wear",
+      "gender": "male"
+    },
+    {
+      "id": "k9l4",
+      "name": "High-Top Trail Shoes",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "Salomon",
+      "price": 3500,
+      "category": "shoes",
+      "gender": "kids"
+    },
+    {
+      "id": "i6u2",
+      "name": "Henley Shirt",
+      "image": "https://placehold.co/600x400/png",
+      "brand": "American Eagle",
+      "price": 1100,
+      "category": "top-wear",
+      "gender": "female"
+    }
+  ]
+}
