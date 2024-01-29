@@ -1,5 +1,5 @@
-const sum = (a, b) =>{
-    console.log(a+b)
-}
+let arr = [100, 200, 300, 400, 500, 600, 700, 800, 900];
 
-sum(10,20)
+for (let i of arr) {
+    console.log(i)
+}

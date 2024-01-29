@@ -45,7 +45,7 @@ export default function Login() {
     const userData = {
       email, password
     }
-    dispatch(login(userData, toast ))
+    dispatch(login(userData, toast))
 
     console.log(userData)
   };
